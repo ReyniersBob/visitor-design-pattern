@@ -39,8 +39,8 @@ public class Archer implements Infanterie {
 
     @Override
     public void defend(EnemyVisitor visitor) {
+        visitor.attackArcher(this);
         offend();
         attack();
-        visitor.attackArcher(this);
     }
 }
