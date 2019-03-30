@@ -10,7 +10,7 @@ public class Soldier implements Infanterie {
 
     @Override
     public void attack() {
-        System.out.println("attackSoldier");
+        System.out.println("attack");
     }
 
     @Override
