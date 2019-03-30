@@ -13,7 +13,9 @@ public class VisitorDemoApplication {
 
 	public static void main(String[] args) {
 
-		Plunder.letThePlunderBegin(createArmy(), new Visitor1());
+		Army army = createArmy();
+		Plunder.letThePlunderBegin(army, new Visitor1());
+		Plunder.letThePlunderBegin(army, new Visitor1());
 	}
 
 	private static Army createArmy() {

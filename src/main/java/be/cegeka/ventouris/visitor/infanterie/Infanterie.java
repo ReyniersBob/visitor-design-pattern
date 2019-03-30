@@ -4,14 +4,14 @@ import be.cegeka.ventouris.visitor.enemies.EnemyVisitor;
 
 public interface Infanterie {
 
-    void attack();
+    int attack();
 
-    void offend();
+    void offendVisitor();
 
     void hit(int attackPoints);
 
     int whatsMyHealth();
 
-    void defend(EnemyVisitor visitor);
+    void defendAgainst(EnemyVisitor visitor);
 
 }

@@ -27,7 +27,7 @@ public class Army {
     }
 
     public void defendAgainst(EnemyVisitor visitor){
-        getArmy().forEach(infanterie -> infanterie.defend(visitor));
+        getArmy().forEach(infanterie -> infanterie.defendAgainst(visitor));
     }
 
     public static class Builder{
