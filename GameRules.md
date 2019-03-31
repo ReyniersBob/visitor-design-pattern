@@ -26,6 +26,8 @@ His name was ....
 The second creature used to be one of the villagers who got bitten by a foul creature.
 He was still ugly and smelly. Although he wasn't really the same person as before. 
 I dont think he ever forgave the soldier for taking his old spot.
+
+![ZombieBoss.jpg](./src/main/resources/ZombieBoss.jpg)
     
 ## Exercise 2
 * Create a ZombieVisitor
@@ -40,6 +42,8 @@ I dont think he ever forgave the soldier for taking his old spot.
  
 The third creature was the one everyone feared, because nobody could live and tell the tale after they met him.
 There were rumours that he devoured entire armies at once, but still ... no one knew for sure. 
+
+![ReaperBoss.jpg](./src/main/resources/ReaperBoss.jpg)
     
 ## Exercise 3
 * Create a ReaperVisitor
