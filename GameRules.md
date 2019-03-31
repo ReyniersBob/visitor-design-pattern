@@ -9,6 +9,7 @@ But that soon changed ...
 
 The first creature was an adventurer and soon discovered the village. He was the most fierce one.
 His name was ....
+Puss in boots
 
 ![Puss_in_Boots_from_Shrek.png](./src/main/resources/Puss_in_Boots_from_Shrek.png)
 
