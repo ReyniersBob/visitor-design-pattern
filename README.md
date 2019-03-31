@@ -20,3 +20,5 @@ Clients traverse the object structure and call a dispatching operation accept(v
 
 The visitor object then performs the operation on the element ("visits the element").
 This makes it possible to create new operations independently from the classes of an object structure by adding new visitor objects.
+
+## Exercises are described in the GameRules.md
