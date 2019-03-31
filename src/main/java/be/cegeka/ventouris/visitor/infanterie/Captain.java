@@ -48,6 +48,6 @@ public class Captain implements Infanterie {
 
     @Override
     public void defendAgainst(EnemyVisitor visitor) {
-        visitor.attackCaptain(this);
+
     }
 }

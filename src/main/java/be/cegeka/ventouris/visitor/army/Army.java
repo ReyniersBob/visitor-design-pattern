@@ -20,10 +20,14 @@ public class Army {
     }
 
     private Collection<Infanterie> getArmy(){
-        army.add(archer);
-        army.add(captain);
-        army.add(soldier);
+        addInfanterieToArmy(archer);
+        addInfanterieToArmy(captain);
+        addInfanterieToArmy(soldier);
         return army;
+    }
+
+    private void addInfanterieToArmy(Infanterie infanterie) {
+        army.add(infanterie);
     }
 
     public void defendAgainst(EnemyVisitor visitor){

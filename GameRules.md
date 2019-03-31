@@ -21,6 +21,7 @@ His name was ....
     - attack points: 6
     - health points: 30
     - will flee when his health is below 10
+    - every time he plunders and survives a round he takes somewhere between 5-10 gold
  
 The second creature used to be one of the villagers who got bitten by a foul creature.
 He was still ugly and smelly. Although he wasn't really the same person as before. 
@@ -35,6 +36,7 @@ I dont think he ever forgave the soldier for taking his old spot.
     - attack points: 10
     - health points: 40
     - doesnt know how to give up
+    - every time he plunders and survives a round he takes somewhere between 1-5 gold
  
 The third creature was the one everyone feared, because nobody could live and tell the tale after they met him.
 There were rumours that he devoured entire armies at once, but still ... no one knew for sure. 
@@ -48,3 +50,4 @@ There were rumours that he devoured entire armies at once, but still ... no one 
     - attack points: 7
     - health points: 35
     - regen health with 20 on kill
+    - every time he plunders and survives a round he takes somewhere between 10-15 gold

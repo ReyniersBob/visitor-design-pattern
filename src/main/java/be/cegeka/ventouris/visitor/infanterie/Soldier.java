@@ -48,8 +48,6 @@ public class Soldier implements Infanterie {
 
     @Override
     public void defendAgainst(EnemyVisitor visitor) {
-        if (whatsMyHealth() > 0) {
-            visitor.attackSoldier(this);
-        }
+
     }
 }

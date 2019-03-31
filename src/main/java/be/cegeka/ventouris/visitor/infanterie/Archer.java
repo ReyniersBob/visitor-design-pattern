@@ -48,6 +48,6 @@ public class Archer implements Infanterie {
 
     @Override
     public void defendAgainst(EnemyVisitor visitor) {
-        visitor.attackArcher(this);
+
     }
 }
