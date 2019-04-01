@@ -6,7 +6,7 @@ public class Captain implements Infanterie {
 
     private int attackPoints = 10;
     private String offensiveWord = "fill in anything that comes to mind";
-    private int health = 40;
+    private int health = 50;
     public boolean isAlive;
 
     public Captain() {

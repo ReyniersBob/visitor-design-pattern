@@ -6,7 +6,7 @@ public class Archer implements Infanterie {
 
     private int attackPoints = 5;
     private String offensiveWord = "fill in anything that comes to mind";
-    private int health = 14;
+    private int health = 20;
     public boolean isAlive;
 
     public Archer() {
