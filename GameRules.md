@@ -15,7 +15,6 @@ Puss in boots
 
 ## Exercise 1
 * Create a PussInBootsVisitor
-* Implement the methods
 * Whats different about puss in boots?
     - attacks every infanterie 2 times (because 2 paws)
     - attacks in a certain order archer > soldier > captain
@@ -32,7 +31,6 @@ I dont think he ever forgave the soldier for taking his old spot.
     
 ## Exercise 2
 * Create a ZombieVisitor
-* Implement the methods
 * Whats different about zombie boss?
     - attacks soldier 2 time (because issues), attacks everyone else once (low agility)
     - attacks in a certain order soldier > captain > archer
@@ -48,7 +46,6 @@ There were rumours that he devoured entire armies at once, but still ... no one 
     
 ## Exercise 3
 * Create a ReaperVisitor
-* Implement the methods
 * Whats different about the reaper?
     - attacks everyone at once
     - but (still) in a certain order captain > soldier > archer
