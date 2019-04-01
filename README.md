@@ -12,7 +12,7 @@ The nature of the Visitor makes it an ideal pattern to plug into public APIs thu
 
 When new operations are needed frequently and the object structure consists of many unrelated classes, it's inflexible to add new subclasses each time a new operation is required because distributing all these operations across the various node classes leads to a system that's hard to understand, maintain, and change.
 
-## What solution does the Visitor design pattern describe?
+## How do i use this?
 
 Define a separate (visitor) object that implements an operation to be performed on elements of an object structure.
 
